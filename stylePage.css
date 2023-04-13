@@ -1,0 +1,144 @@
+.login{
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+
+}
+.topDiv{
+    background-color: lightgreen;
+    height: 150px;
+    font-family: sans-serif;
+ 
+    border: 1.5px;
+    border-style: solid;
+    border-color: rgb(212, 211, 211);
+    
+
+}
+
+.homebarSelect{
+    color:black;
+    margin: 40px;
+    margin: 0px, 50px, 30px, 50px;
+    font-size: 20px;
+    text-align: center;
+    
+  
+    
+}
+a.homebarSelect:link{
+    text-decoration: none;
+}
+
+a.homebarSelect:hover{
+    color: Black;
+
+    text-decoration: underline;
+   
+    
+
+}
+
+.text{
+    color: #0E5708; 
+    font-family: monospace; 
+    font-size: 40px; 
+    margin-top: 20px;
+  
+    
+}
+
+.whiteBox{
+    background-color: white;
+    float: left;
+    display: inline;
+    width: 250px;
+    height: 250px;
+    margin-left: 28px;
+    
+   
+    text-align: center;
+  
+    
+}
+
+.topNav{
+    color: black;
+    overflow: hidden;
+    position: relative;
+    left: 40px;
+    top: 15px;
+    font-family: sans-serif;
+    font-size: 20px;
+    overflow: hidden;
+ 
+}
+
+.plants{
+
+    margin: 20px;
+    float:left;
+
+    margin-left: 100px;  
+   
+}
+
+
+.formDiv{
+    position: relative;
+    top: 50px;
+    height: 78vh;
+    width: 40vw;
+    background-color: lightgreen;
+    margin: auto;
+    border-radius: 5px;
+    padding: 20px;
+    border:#0E5708;
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 15px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+    
+    input[type=password]{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 15px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    
+    
+    
+    
+    }
+
+    input[type=submit]{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 3px 0 0 0;
+        display: inline-block;
+        background-color: #0E5708;
+        color: white;
+    }
+
+
+*{
+    box-sizing: border-box;
+}
+
+.formFont{
+    font-family:Verdana, Geneva, sans-serif
+    ;
+
+}
